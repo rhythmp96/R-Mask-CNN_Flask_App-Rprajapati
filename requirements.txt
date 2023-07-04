@@ -1,0 +1,14 @@
+numpy==1.23.1
+flask==2.2.2
+scipy==1.4.1
+Pillow==8.4.0
+cython==0.29.24
+matplotlib==3.7.1
+requests==2.24.0
+gunicorn==20.1.0
+scikit-learn==0.23.0
+scikit-image==0.16.2
+tensorflow-cpu==2.4.1
+keras==2.3.1
+opencv-python==4.5.4.60
+
